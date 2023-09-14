@@ -1,0 +1,15 @@
+
+项目地址 : https://github.com/sbwml/luci-app-alist
+
+OpenWrt 查看CPU架构命令：cat /etc/os-release |grep ARCH
+
+AList文档：https://alist.nn.ci
+
+
+视频教程
+https://www.bilibili.com/video/BV1PW4y1V78f
+
+
+下载插件:  
+
+https://github.com/sbwml/luci-app-alist/releases/download/v3.27.0/openwrt-21.02-aarch64_cortex-a53.tar.gz
